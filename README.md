@@ -1,164 +1,134 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2563EB&height=220&section=header&text=João%20Victor%20Sitta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend%20Focused%20%7C%20Cloud%20Computing&descAlignY=60"/>
-</p>
+---
 
-<h1 align="center">
-👋 Olá, eu sou o João Victor
-</h1>
-
-<p align="center">
-💻 Analista Full Stack | Backend Developer | Cloud Computing
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Node.js+%7C+TypeScript+%7C+Python;APIs+REST+%7C+AWS+%7C+Docker;Desenvolvimento+Backend+e+Cloud;Construindo+soluções+escaláveis"/>
-</p>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/joao-victor-sitta/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/victorsitta">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
+# 🚀 Projetos em Destaque
 
 
-## 🚀 Sobre mim
+## 📚 StudyCast
 
-Sou **Analista Full Stack** com foco em **desenvolvimento Backend e Cloud Computing**.
+Plataforma desenvolvida para auxiliar estudantes na organização e aprendizado.
 
-Tenho experiência prática no desenvolvimento de aplicações, criação de APIs REST, integração entre sistemas, automação de processos e construção de soluções utilizando tecnologias modernas.
+O projeto envolve desenvolvimento Full Stack, integração entre frontend e backend, gerenciamento de dados e construção de uma aplicação escalável.
 
-Minha principal atuação está voltada para:
+### Tecnologias:
 
-- ⚙️ Desenvolvimento Backend
-- ☁️ Arquitetura Cloud utilizando AWS
-- 🔗 APIs REST e Web Services
-- 🐳 Containers com Docker
-- 🔄 Automação de processos
-- 🗄️ Banco de Dados SQL
+- Node.js
+- TypeScript
+- React
+- Banco de Dados SQL
+- APIs REST
+
+
+🔗 Repositório:
+https://github.com/victorsitta/StudyCast
 
 
 ---
 
-# 💻 Minha Stack
+
+## 🌱 AgroMonitor IoT
+
+Sistema voltado para monitoramento agrícola utilizando tecnologia e dados para acompanhamento de informações em campo.
+
+Projeto envolvendo integração entre software e dispositivos, coleta de dados e visualização das informações.
+
+### Tecnologias:
+
+- Python
+- IoT
+- ESP32
+- Sensores
+- MQTT
+- Banco de Dados
+- Cloud Computing
 
 
-## ⚙️ Backend & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,ts,python,aws,docker"/>
-</p>
-
-Tecnologias principais:
-
-`Node.js` • `TypeScript` • `Python` • `AWS` • `Docker`
-
-
----
-
-## 🗄️ Banco de Dados
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
-</p>
-
-Experiência com:
-
-`MySQL` • `PostgreSQL`
+🔗 Repositório:
+https://github.com/victorsitta/AgroMonitor
 
 
 ---
 
-## 🎨 Front-end
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,javascript,html,css"/>
-</p>
-
-Utilizo para criação de:
-
-- Interfaces modernas
-- Dashboards
-- Aplicações responsivas
+# ☁️ AWS Cloud & Documentações
 
 
----
-
-## 🛠️ Ferramentas
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
-</p>
+Além dos projetos de desenvolvimento, mantenho estudos e documentações práticas sobre serviços da AWS, demonstrando arquitetura, funcionamento e boas práticas.
 
 
----
-
-# 🧩 Competências
+## 📘 Estudos AWS
 
 
-<div align="center">
+### Amazon EC2
 
-<img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+Documentação sobre:
 
-<img src="https://img.shields.io/badge/API-REST-02569B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Containers-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-
-</div>
+- Criação e gerenciamento de máquinas virtuais
+- Tipos de instâncias
+- Segurança com Security Groups
+- Modelos de cobrança
 
 
----
+### Amazon S3
 
-# 📌 Atualmente estudando
+Documentação sobre:
 
-- ☁️ AWS Cloud
-- 🏗️ Arquitetura de sistemas
-- 🔐 Boas práticas de segurança
-- 🚀 DevOps e CI/CD
-- 🤖 Inteligência Artificial aplicada ao desenvolvimento
-
-
----
-
-# 🎯 Objetivo profissional
-
-Atuar como **Analista Full Stack / Desenvolvedor Backend**, participando da criação de aplicações escaláveis, APIs robustas e soluções em Cloud utilizando **Node.js, TypeScript, Python, Docker e AWS**.
+- Armazenamento de objetos
+- Classes de armazenamento
+- Versionamento
+- Lifecycle Rules
+- Backup e recuperação
 
 
----
+### AWS Lambda
 
-# 📂 Projetos em destaque
+Documentação sobre:
 
-🚀 **Aplicações Web Full Stack**  
-Desenvolvimento de sistemas completos com frontend, backend e banco de dados.
+- Computação Serverless
+- Funções orientadas a eventos
+- Integração com APIs
+- Casos de uso
 
-☁️ **Projetos Cloud AWS**  
-Implementação de serviços utilizando computação em nuvem, APIs e automações.
 
-⚙️ **Automação de Processos**  
-Criação de soluções para otimizar tarefas repetitivas e integrações.
+### Amazon RDS
+
+Documentação sobre:
+
+- Banco de dados gerenciado
+- Alta disponibilidade
+- Backup automático
+- Segurança
+
+
+### Amazon VPC
+
+Documentação sobre:
+
+- Redes privadas
+- Subnets
+- Security Groups
+- Controle de acesso
+
+
+### AWS IAM
+
+Documentação sobre:
+
+- Usuários
+- Roles
+- Policies
+- Princípio do menor privilégio
 
 
 ---
 
-<h3 align="center">
-⭐ Obrigado pela visita!
-</h3>
-
-<p align="center">
-Sempre buscando aprender, construir e evoluir como desenvolvedor.
-</p>
+# 🏗️ Arquiteturas Cloud
 
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0D1117&height=120&section=footer"/>
-</p>
+Também desenvolvo documentações contendo:
+
+- Diagramas de arquitetura AWS
+- Fluxos de comunicação entre serviços
+- Boas práticas de segurança
+- Escolha de serviços conforme cenário
+
+
+Exemplos:
