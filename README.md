@@ -137,7 +137,7 @@ O projeto envolve desenvolvimento Full Stack, integração entre frontend e back
 `Node.js` • `TypeScript` • `React` • `SQL` • `APIs REST`
 
 🔗 Repositório:
-https://github.com/victorsitta
+https://github.com/victorsitta/StudyQuest
 
 ---
 
@@ -152,7 +152,12 @@ A solução envolve comunicação com sensores, processamento de informações e
 `Python` • `ESP32` • `IoT` • `MQTT` • `Sensores` • `Banco de Dados`
 
 🔗 Repositório:
-https://github.com/victorsitta
+
+Frontend
+https://github.com/victorsitta/AgroMonitor
+
+Backend
+https://github.com/victorsitta/AgroMonitorBackend
 
 ---
 
@@ -190,7 +195,7 @@ Exemplos de documentações:
 
 📂 Documentações disponíveis nos repositórios:
 
-https://github.com/victorsitta
+https://github.com/victorsitta/aws-cloud-engineering
 
 ---
 
