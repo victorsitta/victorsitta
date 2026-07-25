@@ -193,7 +193,7 @@ Exemplos de documentações:
 - Boas práticas AWS
 
 
-📂 Documentações disponíveis nos repositórios:
+📂 Documentações disponíveis no repositório:
 
 https://github.com/victorsitta/aws-cloud-engineering
 
