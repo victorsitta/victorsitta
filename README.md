@@ -26,7 +26,6 @@
 
 </p>
 
-
 ---
 
 # 🚀 Sobre mim
@@ -38,12 +37,11 @@ Tenho experiência prática no desenvolvimento de aplicações, criação de API
 Minha principal atuação está voltada para:
 
 - ⚙️ Desenvolvimento Backend
-- ☁️ Arquitetura Cloud utilizando AWS
+- ☁️ Soluções em Cloud Computing
 - 🔗 APIs REST e Web Services
 - 🐳 Containers com Docker
 - 🔄 Automação de processos
 - 🗄️ Banco de Dados SQL
-
 
 ---
 
@@ -60,7 +58,6 @@ Tecnologias principais:
 
 `Node.js` • `TypeScript` • `Python` • `AWS` • `Docker`
 
-
 ---
 
 ## 🗄️ Banco de Dados
@@ -72,7 +69,6 @@ Tecnologias principais:
 Experiência com:
 
 `MySQL` • `PostgreSQL`
-
 
 ---
 
@@ -88,7 +84,6 @@ Utilizo para criação de:
 - Dashboards
 - Aplicações responsivas
 
-
 ---
 
 ## 🛠️ Ferramentas
@@ -96,7 +91,6 @@ Utilizo para criação de:
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
 </p>
-
 
 ---
 
@@ -117,7 +111,6 @@ Utilizo para criação de:
 
 </div>
 
-
 ---
 
 # 📌 Atualmente estudando
@@ -127,7 +120,6 @@ Utilizo para criação de:
 - 🔐 Boas práticas de segurança
 - 🚀 DevOps e CI/CD
 - 🤖 Inteligência Artificial aplicada ao desenvolvimento
-
 
 ---
 
@@ -147,152 +139,64 @@ O projeto envolve desenvolvimento Full Stack, integração entre frontend e back
 🔗 Repositório:
 https://github.com/victorsitta
 
-
 ---
-
 
 ## 🌱 AgroMonitor IoT
 
-Projeto voltado para monitoramento agrícola utilizando conceitos de IoT, coleta de dados e integração entre dispositivos e sistemas.
+Projeto voltado para monitoramento agrícola utilizando conceitos de IoT, coleta de dados e integração entre dispositivos.
 
-A solução envolve comunicação entre sensores, processamento de informações e desenvolvimento de uma arquitetura para monitoramento de dados.
+A solução envolve comunicação com sensores, processamento de informações e desenvolvimento de uma aplicação para acompanhamento dos dados coletados em campo.
 
 ### Tecnologias utilizadas:
 
-`Python` • `ESP32` • `IoT` • `MQTT` • `Banco de Dados` • `Cloud Computing`
+`Python` • `ESP32` • `IoT` • `MQTT` • `Sensores` • `Banco de Dados`
 
 🔗 Repositório:
 https://github.com/victorsitta
-
 
 ---
 
 # ☁️ AWS Cloud & Documentações
 
 
-Além dos projetos de desenvolvimento, mantenho estudos práticos e documentações sobre serviços AWS, arquitetura em nuvem e boas práticas.
+Além dos projetos de desenvolvimento, mantenho estudos práticos em Cloud Computing, criando documentações técnicas sobre serviços AWS, arquiteturas e boas práticas.
 
 
-## 📘 Documentações AWS
+## 📘 Estudos e Documentações AWS
 
 
-### 🖥️ Amazon EC2
+Desenvolvo documentos contendo:
 
-Documentação sobre:
-
-- Criação e configuração de instâncias
-- Tipos de máquinas virtuais
-- Security Groups
-- Modelos de cobrança
-- Boas práticas de utilização
-
-
-### 🪣 Amazon S3
-
-Documentação sobre:
-
-- Armazenamento de objetos
-- Classes de armazenamento
-- Versionamento
-- Lifecycle Rules
-- Estratégias de backup
-
-
-### ⚡ AWS Lambda
-
-Documentação sobre:
-
-- Arquitetura Serverless
-- Funções orientadas a eventos
-- Integração com APIs
+- Explicação dos serviços AWS
 - Casos de uso
+- Comparações entre soluções
+- Boas práticas de arquitetura
+- Segurança e gerenciamento de recursos
+- Fluxos de comunicação entre componentes
 
 
-### 🔐 AWS IAM
-
-Documentação sobre:
-
-- Usuários e grupos
-- Roles
-- Policies
-- Controle de permissões
-- Princípio do menor privilégio
+Também documento arquiteturas utilizando diagramas, demonstrando como diferentes serviços podem ser utilizados para construir soluções escaláveis.
 
 
-### 🌐 Amazon VPC
+Exemplos de documentações:
 
-Documentação sobre:
-
-- Redes privadas
-- Subnets
-- Security Groups
-- Arquitetura de rede AWS
-
-
-### 📊 Amazon CloudWatch
-
-Documentação sobre:
-
-- Logs
-- Monitoramento
-- Métricas
-- Alertas
+- Arquiteturas Cloud
+- Computação Serverless
+- Estratégias de armazenamento
+- Redes e segurança na nuvem
+- Monitoramento e observabilidade
+- Boas práticas AWS
 
 
----
+📂 Documentações disponíveis nos repositórios:
 
-# 🏗️ Arquiteturas Cloud
-
-
-Também desenvolvo documentações contendo:
-
-- Diagramas de arquitetura AWS
-- Fluxo de comunicação entre serviços
-- Escolha de serviços conforme o cenário
-- Boas práticas de segurança
-
-
-Exemplos de arquitetura:
-
-```
-Usuário
-   |
-CloudFront
-   |
-API Gateway
-   |
-Lambda
-   |
-DynamoDB / RDS
-```
-
-
----
-
-# 📚 Conhecimentos Cloud
-
-
-- AWS Cloud Practitioner
-- Amazon EC2
-- Amazon S3
-- AWS Lambda
-- IAM
-- VPC
-- RDS
-- DynamoDB
-- CloudWatch
-- API Gateway
-- Docker
-- CI/CD
-- DevOps
-
+https://github.com/victorsitta
 
 ---
 
 # 🎯 Objetivo profissional
 
 Atuar como **Analista Full Stack / Desenvolvedor Backend**, participando da criação de aplicações escaláveis, APIs robustas e soluções em Cloud utilizando **Node.js, TypeScript, Python, Docker e AWS**.
-
 
 ---
 
