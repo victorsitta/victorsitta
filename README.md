@@ -1,21 +1,25 @@
 # 👋 Olá, eu sou o João Victor Sitta
 
-### 💻 Analista Full Stack | Node.js | Python | AWS | Docker | React
+### 💻 Analista Full Stack | Node.js | TypeScript | Python | AWS | Docker
 
-Desenvolvedor de software apaixonado por tecnologia, computação em nuvem e automação de processos. Tenho experiência prática no desenvolvimento de aplicações web, integração de APIs, soluções em AWS, containers com Docker e pipelines CI/CD, sempre buscando criar sistemas escaláveis, performáticos e de fácil manutenção.
+Desenvolvedor Full Stack com foco em desenvolvimento **Backend** e soluções em **Cloud Computing**.
+
+Tenho experiência prática no desenvolvimento de APIs REST, integração de sistemas, automação de processos e aplicações utilizando **Node.js**, **TypeScript**, **Python**, **Docker** e **AWS**.
+
+Também desenvolvo interfaces modernas utilizando **React** e **Tailwind CSS**, sempre priorizando arquiteturas escaláveis, boas práticas de desenvolvimento e código limpo.
 
 ---
 
 ## 🚀 Sobre mim
 
-* 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas
-* ☁️ Estudando e desenvolvendo soluções na AWS
-* 💻 Desenvolvimento Full Stack com foco em Back-end
-* ⚡ Experiência com automação de processos e integrações
-* 🔄 Desenvolvimento e consumo de APIs REST e Web Services
-* 📦 Containers com Docker
-* 🗄️ Banco de dados SQL
-* 📍 São Carlos - SP, Brasil
+- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas
+- ☁️ Focado em Cloud Computing com AWS
+- 💻 Desenvolvimento Full Stack com ênfase em Backend
+- ⚡ Desenvolvimento de APIs REST e Web Services
+- 🔄 Automação de processos e integrações
+- 📦 Docker e Containers
+- 🗄️ Banco de Dados SQL
+- 📍 São Carlos - SP, Brasil
 
 ---
 
@@ -33,84 +37,49 @@ Desenvolvedor de software apaixonado por tecnologia, computação em nuvem e aut
 
 ---
 
-# 🛠️ Tecnologias
-
-### 👨‍💻 Linguagens
+# 🚀 Stack Principal
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,nodejs,python"/>
+<img src="https://skillicons.dev/icons?i=nodejs,ts,python,aws,docker,mysql,postgres"/>
 </p>
 
-### 🎨 Front-end
+---
+
+# 🎨 Front-end
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css"/>
+<img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css"/>
 </p>
 
-### ⚙️ Back-end
+---
+
+# 🛠️ Ferramentas
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
 </p>
 
-### ☁️ Cloud & DevOps
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions"/>
-</p>
+# 🎯 Áreas de Atuação
 
-### 🗄️ Banco de Dados
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
-</p>
-
-### 🧰 Ferramentas
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,npm"/>
-</p>
+- 🔹 Desenvolvimento Backend
+- 🔹 APIs REST
+- 🔹 Web Services
+- 🔹 Cloud Computing (AWS)
+- 🔹 Docker e Containers
+- 🔹 Banco de Dados SQL
+- 🔹 Automação de Processos
+- 🔹 Desenvolvimento Full Stack
 
 ---
 
 # 📊 Estatísticas
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 Sequência de Contribuições
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 Troféus
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true"/>
-
-</p>
-
----
-
-# 📈 Gráfico de Contribuições
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true"/>
-
 </p>
 
 ---
@@ -120,11 +89,20 @@ Desenvolvedor de software apaixonado por tecnologia, computação em nuvem e aut
 <p>
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </p>
 
@@ -132,4 +110,8 @@ Desenvolvedor de software apaixonado por tecnologia, computação em nuvem e aut
 
 # 🚀 Objetivo
 
-Atuar no desenvolvimento de soluções Full Stack e Back-end, aplicando boas práticas de engenharia de software, arquitetura de sistemas, computação em nuvem e automação para construir aplicações modernas, escaláveis e de alta qualidade.
+Atuar como **Analista Full Stack**, contribuindo principalmente no desenvolvimento **Backend**, criação de APIs, integrações de sistemas e soluções em Cloud Computing utilizando Node.js, TypeScript, Python e AWS, aplicando boas práticas de engenharia de software para construir aplicações escaláveis, seguras e de alta qualidade.
+
+---
+
+⭐ **Sempre buscando aprender novas tecnologias e desenvolver soluções que gerem impacto.**
